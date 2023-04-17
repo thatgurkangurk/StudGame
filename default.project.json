@@ -26,7 +26,7 @@
             "StarterPlayerScripts": {
                 "$className": "StarterPlayerScripts",
                 "Source": {
-                    "$path": "src/ServerScriptService"
+                    "$path": "src/StarterPlayerScripts"
                 }
             }
         }
